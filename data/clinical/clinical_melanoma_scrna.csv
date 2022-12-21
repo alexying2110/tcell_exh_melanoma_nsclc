@@ -1,0 +1,19 @@
+ptid,age,sex,type,treatment,prior_treatment,ae_grade,severe_ae,time_to_event,site,gi,response
+YUCARD,77,Male,Indeterminate,Combination,No,3,1,1.41,GI,1,DCB
+YUTAUR,72,Male,Acral,Combination,No,3,1,0.39,skin,0,NDB
+YUPIXEL,76,Male,Sun-exposed,Combination,No,3,1,1.61,lung,0,DCB
+YUVARDO,75,Male,Sun-exposed,Combination,No,3,1,1.15,GI,1,DCB
+YUFURL,74,Male,Mucosal,Combination,No,3,1,1.41,GI,1,NDB
+YUTORY,84,Male,Ocular/Uveal,Combination,No,3,1,0.59,systemic,0,NDB
+YUALOE,66,Male,Sun-exposed,Combination,No,3,1,2.30,pancreas,0,DCB
+YUNANCY,41,Female,Sun-exposed,Combination,No,3,1,0.59,liver,0,DCB
+YUHERN,53,Female,Mucosal,Combination,No,2,0,43.96,"joint, systemic",0,DCB
+YUGRUS,48,Female,Acral,Combination,No,2,0,25.20,pituitary,0,NE
+YUROD,31,Male,Mucosal,Combination,No,2,0,41.63,joint,0,DCB
+YUWINTER,73,Male,Sun-exposed,Anti-PD1,No,2,0,51.42,skin,0,DCB
+YUENZO,36,Male,Sun-exposed,Anti-PD1,No,1,0,16.10,thyroid,0,NDB
+YUTHEA,66,Male,Sun-exposed,Combination,No,1,0,14.85,skin,0,DCB
+YUDIGIT,67,Male,Ocular/Uveal,Anti-PD1,No,1,0,9.92,skin,1,NDB
+YUKEND,80,Female,Sun-exposed,Anti-PD1,No,0,0,18.37,NA,0,NE
+YUFUB,39,Male,Indeterminate,Combination,No,0,0,13.34,NA,0,NDB
+WUMENLO,49,Male,Sun-exposed,Combination,No,0,0,5.42,NA,0,NDB

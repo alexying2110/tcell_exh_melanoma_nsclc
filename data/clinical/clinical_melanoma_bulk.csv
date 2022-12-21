@@ -1,0 +1,54 @@
+ptid,age,sex,type,treatment,prior_treatment,ae_grade,severe_ae,time_to_event,site,gi,response
+YUHEAL,51,Male,Sun-exposed,Combination,Yes,4,1,2.86,liver,0,DCB
+YUBAIX,46,Male,Sun-exposed,Combination,No,3,1,2.43,liver,0,DCB
+YUDONA,72,Male,Sun-exposed,Combination,No,3,1,1.38,liver,0,DCB
+YUKEID,35,Female,Indeterminate,Combination,No,3,1,0.56,GI,1,NE
+YURADIO,71,Male,Indeterminate,Combination,No,3,1,2.66,GI,1,DCB
+YUBRET,69,Male,Sun-exposed,Anti-PD1,No,2,0,52.67,"pituitary, adrenal",0,DCB
+YUCUSK,75,Female,Ocular/Uveal,Anti-PD1,No,2,0,9.13,skin,0,NDB
+YUGIM,69,Male,Sun-exposed,Combination,No,2,0,49.25,"liver, systemic",0,DCB
+YUGRUE,55,Male,Sun-exposed,Combination,No,2,0,44.85,liver,0,DCB
+YUMAXI,80,Male,Sun-exposed,Anti-PD1,No,2,0,8.64,skin,0,DCB
+YUMEDIC,69,Female,Sun-exposed,Combination,No,2,0,15.05,liver,0,NDB
+YUQIP,47,Female,Mucosal,Combination,No,2,0,33.25,"pituitary, skin",1,NDB
+YURAISE,56,Male,Sun-exposed,Combination,No,2,0,77.24,pituitary,0,DCB
+YURICA,65,Male,Sun-exposed,Combination,No,2,0,15.80,thyroid,0,DCB
+YUEVRY,65,Female,Sun-exposed,Anti-PD1,No,1,0,4.60,"musculoskeletal, skin",0,NE
+YUPRAF,70,Female,Sun-exposed,Anti-PD1,No,1,0,5.06,skin,0,DCB
+YUROSA,56,Female,Mucosal,Anti-PD1,No,1,0,8.05,GI,1,NDB
+YUBIFO,34,Male,Sun-exposed,Combination,No,0,0,6.37,NA,0,NDB
+YUBUMP,54,Male,Sun-exposed,Anti-PD1,Yes,0,0,15.15,NA,0,NDB
+YUDIME,64,Male,Sun-exposed,Anti-PD1,No,0,0,4.60,NA,0,NDB
+YUFROME,30,Male,Ocular/Uveal,Anti-PD1,Yes,0,0,41.99,NA,0,NDB
+YUGIRL,20,Female,Sun-exposed,Anti-PD1,No,0,0,11.43,NA,0,NE
+YUHIMO,56,Male,Acral,Anti-PD1,No,0,0,14.88,NA,0,NDB
+YUJADE,66,Male,Sun-exposed,Anti-PD1,Yes,0,0,7.26,NA,0,NDB
+YUPARK,67,Female,Acral,Anti-PD1,No,0,0,11.76,NA,0,NE
+YUTACI,54,Male,Sun-exposed,Combination,No,0,0,30.32,NA,0,DCB
+YUDUAR,82,Male,Sun-exposed,Anti-PD1,No,4,1,1.38,musculoskeletal,0,NDB
+YUHONEY,81,Male,Sun-exposed,Combination,No,4,1,2.99,pancreas,1,DCB
+YUAMIGO,44,Male,Sun-exposed,Combination,No,3,1,1.48,pancreas,0,DCB
+YUBROMO,69,Male,Sun-exposed,Combination,No,3,1,1.97,"eye, thyroid",1,NE
+YUCADA,54,Female,Sun-exposed,Combination,No,3,1,1.94,GI,1,DCB
+YUFROZE,69,Male,Sun-exposed,Combination,No,3,1,0.62,GI,1,DCB
+YUGRAPH,54,Male,Sun-exposed,Combination,No,3,1,1.74,"pituitary, adrenal",0,NDB
+YULAMB,60,Female,Mucosal,Combination,No,3,1,2.63,GI,1,DCB
+YUPOGER,76,Male,Sun-exposed,Combination,No,3,1,1.84,musculoskeletal,0,NDB
+YUPRETE,58,Male,Acral,Anti-PD1,Yes,3,1,1.64,liver,0,NDB
+YUSMAL,65,Female,Mucosal,Combination,No,3,1,0.43,liver,1,DCB
+YUSONG,87,Male,Sun-exposed,Anti-PD1,No,3,1,1.02,neurologic,0,NDB
+WULOUIS,58,Female,Sun-exposed,Anti-PD1,No,2,0,11.83,"thyroid, musculoskeletal",0,DCB
+WUPALO,80,Male,Sun-exposed,Anti-PD1,No,2,0,6.90,musculoskeletal,0,DCB
+YUBLIT,78,Male,Sun-exposed,Anti-PD1,No,2,0,95.18,GI,1,DCB
+YUCEVO,91,Female,Sun-exposed,Anti-PD1,No,2,0,6.21,thyroid,0,DCB
+YUPESO,77,Male,Sun-exposed,Combination,No,2,0,55.72,GI,1,DCB
+YUDEBIT,56,Male,Sun-exposed,Combination,No,1,0,36.67,skin,0,NDB
+YURIDA,61,Male,Sun-exposed,Anti-PD1,Yes,1,0,28.09,skin,0,DCB
+YUVITZ,66,Male,Sun-exposed,Anti-PD1,No,1,0,118.51,skin,0,DCB
+YUADD,84,Male,Sun-exposed,Anti-PD1,No,0,0,6.90,NA,0,DCB
+YUARGE,66,Male,Acral,Anti-PD1,Yes,0,0,9.53,NA,0,NDB
+YUCOT,32,Female,Sun-exposed,Anti-PD1,No,0,0,119.62,NA,0,DCB
+YUDNA,33,Male,Sun-exposed,Anti-PD1,No,0,0,5.06,NA,0,NDB
+YUSTE,65,Female,Sun-exposed,Anti-PD1,No,0,0,8.57,NA,0,NDB
+YUWHEY,37,Male,Sun-exposed,Anti-PD1,No,0,0,4.60,NA,0,NE
+YUZIRG,33,Male,Sun-exposed,Anti-PD1,No,0,0,20.47,NA,0,NDB
